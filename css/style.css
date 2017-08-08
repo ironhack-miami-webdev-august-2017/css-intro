@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(120, 78, 203);
+}
+
+h1 {
+  /* 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, a, b, c, d, e, f */
+  color: #77aa55;
+  /*color: #7a5;*/
+  font-size: 70px;
+}
+
+p {
+  font-size: 25px;
+  color: white;
+}
+
+.special-paragraph {
+  color: yellow;
+  background-color: rgba(0, 0, 0, 0.75);
+  border: 1px solid yellow;
+}
+
+.real-big {
+  font-size: 100px;
+  color: green;
+}
